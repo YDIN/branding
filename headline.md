@@ -22,6 +22,10 @@ But for the rest of us, the default "[Long meaningless title] at [company you've
 
 Headline is one of the most important, and difficult, parts of your brand, so don't leave it to the LinkedIn default.
 
+![headline](pics/headline.png)
+
+> Would you buy a used car from guy like this..?
+
 ---
 
 ## Define your target client and wanted reactions
