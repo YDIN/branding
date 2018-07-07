@@ -10,7 +10,7 @@
 
 -Lewis Carroll, Alice in Wonderland
 
-> **Don't be Alice. Or don't be the dead fish mentioned before.**
+> **Don't be Alice. Or don't be the dead fish mentioned earlier.**
 
 ---
 
