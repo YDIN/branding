@@ -14,7 +14,7 @@ This how-to is written mainly for the people in the tech business, who quite oft
 
 It's worth keeping in mind that in marketing, including branding, there is not one absolute right way to do things. This how-to represents my current views, and is evolving with time.
 
-Comments, feedback, and improvements more than welcome!
+Comments, feedback, [contributions,](CONTRIBUTING.md) and improvements more than welcome!
 
 Thanks,
 
@@ -28,7 +28,7 @@ Ilkka
 
 Each page has multiple sections, each section header is a check-list item: "Do this..."
 
-Each section text provides additional information (explanation, tips, templates, links, ...) aimed to help to accomplish that particular check-list item. If and when something is unclear, please let me know!
+Each section text provides additional information (explanation, tips, templates, links, ...) aimed to help to accomplish that particular check-list item. If and when something is unclear, please let me know or [help contribute to this guide](CONTRIBUTING.md).
 
 ### Stop for a moment first:
 
