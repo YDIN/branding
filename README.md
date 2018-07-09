@@ -14,7 +14,7 @@ This how-to is written mainly for the people in the tech business, who quite oft
 
 It's worth keeping in mind that in marketing, including branding, there is not one absolute right way to do things. This how-to represents my current views, and is evolving with time.
 
-Comments, feedback, and improvements more than welcome!
+Comments, feedback, [contributions,](CONTRIBUTING.md) and improvements more than welcome!
 
 Thanks,
 
@@ -28,43 +28,43 @@ Ilkka
 
 Each page has multiple sections, each section header is a check-list item: "Do this..."
 
-Each section text provides additional information (explanation, tips, templates, links, ...) aimed to help to accomplish that particular check-list item. If and when something is unclear, please let me know!
+Each section text provides additional information (explanation, tips, templates, links, ...) aimed to help to accomplish that particular check-list item. If and when something is unclear, please let me know or [help contribute to this guide](CONTRIBUTING.md).
 
 ### Stop for a moment first:
 
-[1. What are your **goals**?](goals.md)
+[1. What are your **goals**?](docs/goals.md)
 
-[2. Make your personal branding **personal**](personal.md)
+[2. Make your personal branding **personal**](docs/personal.md)
 
 ### You can give the first impression only once:
 
-[3. Don't ruin everything with wrong **Settings**](settings.md)
+[3. Don't ruin everything with wrong **Settings**](docs/settings.md)
 
-[4. Smile! Your **profile photo** matters more than you think](profile-photo.md)
+[4. Smile! Your **profile photo** matters more than you think](docs/profile-photo.md)
 
-[5. Is "Meaningless Title at Neverheard Company" your **Headline** of choice?](headline.md)
+[5. Is "Meaningless Title at Neverheard Company" your **Headline** of choice?](docs/headline.md)
 
 ### The damn difficult part to write your own sales pitch:
 
-[6. **Summary**](summary.md)
+[6. **Summary**](docs/summary.md)
 
 ### The easy, or easier, ones:
 
-[7. Work **experience**](experience.md)
+[7. Work **experience**](docs/experience.md)
 
-[8. **Education**](education.md)
+[8. **Education**](docs/education.md)
 
-[9. **Accomplishments**](accomplishments.md)
+[9. **Accomplishments**](docs/accomplishments.md)
 
 ### Last, don't underestimate the importance of the social part of social media:
 
-[10. **Skills and Endorsements**](skills.md)
+[10. **Skills and Endorsements**](docs/skills.md)
 
-[11. **Recommendations**](recommendations.md)
+[11. **Recommendations**](docs/recommendations.md)
 
-[12. **Interests**](interests.md)
+[12. **Interests**](docs/interests.md)
 
-[13. **Activity** - I know what you did last summer...](activity.md)
+[13. **Activity** - I know what you did last summer...](docs/activity.md)
 
 When you've went through all pages, the full check-list, you can give yourself a ***"LinkedIn like a Pro Badge"*** , and naturally add that your profile ;)
 
