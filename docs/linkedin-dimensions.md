@@ -1,10 +1,10 @@
 # LinkedIn Dimensions
 
-**To make LinkedIn work for you, it's important to understand how "the LinkedIn dimensions" works.**
+**To make LinkedIn work for you, it's important to understand how "the LinkedIn dimensions" work.**
 
 ---
 
-## HORIZONTAL - How you can be found and verified ("social proof")
+## HORIZONTAL - How you can be found and verified in LinkedIn ("social proof")
 
 In addition to searching your name, or clicking a link to your profile somewhere outside Linkedin, your profile can be found multiple different ways.
 
@@ -23,7 +23,7 @@ In addition to being channels to lead more people to find your profile, differen
 
 ---
 
-## VERTICAL - How more information about you can be found
+## VERTICAL - How LinkedIn reveals more information about step-by-step
 
 LinkedIn reveals information in "layers": just a teaser at first, and then more if the visitor gets interested and clicks deeper into your profile.
 
