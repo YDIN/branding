@@ -1,4 +1,4 @@
-8. # Education
+# 8. Education
 
 Education divides opinions. Some say it's not relevant after you've gained serious work experience, some look carefully your schools and graduations.
 
