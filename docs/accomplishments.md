@@ -1,4 +1,4 @@
-# Accomplishments
+# 9. Accomplishments
 
 ## List all you relevant Publications, Patents, Certifications and Courses in detail
 
@@ -6,7 +6,7 @@ By now you should have already known this was coming. You're whole profile is ab
 
 ---
 
-## List EVERY language you speak, even if it's only the basics 
+## 9.1. List EVERY language you speak, even if it's only the basics 
 
 Knowing some words in Japanese or French may not be enough for a conversation, but sometimes even that might be a differentiator compared to a person with no skills at all.
 
@@ -14,7 +14,7 @@ Interest to foreign languages is often connected to an interest in foreign cultu
 
 ---
 
-## Publish your hobby projects if they are even remotely connected to your profession
+## 9.2. Publish your hobby projects if they are even remotely connected to your profession
 
 **Don't underestimate the importance of your old hobby projects.**
 

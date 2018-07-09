@@ -1,4 +1,4 @@
-# Your Work Experience is more than just titles and companies listed
+# 7. Your Work Experience is more than just titles and companies listed
 
 Filling in the whole work history in detail can take some time and effort, but it's an investment.
 
@@ -6,7 +6,7 @@ As a professional, you anyways need to keep track of your past somewhere, so why
 
 ---
 
-## Arrange your work history into a logical order
+## 7.1. Arrange your work history into a logical order
 
 Again, think about your clients: How to make going through your work history an easy and enjoyable experience, highlighting the most relavant positions.
 
@@ -18,7 +18,7 @@ LinkedIn arranges all work experiences based on start and end dates, and if you 
 
 ---
 
-## Split long work experiences
+## 7.2. Split long work experiences
 
 If you have been working 8 years in same company, don't try to squeeze those all into a one work experience with a title "Intern, engineer, manager and later CEO". 
 
@@ -28,7 +28,7 @@ Also, if you have been working in different countries during one employment, mak
 
 ---
 
-## Fill any empty gaps in the work history
+## 7.3. Fill any empty gaps in the work history
 
 Make sure your work history doesn't have any gaps longer than 2-3 months. For a person reviewing your work history, longer unexplained empty period will arise questions, and trust me, you don't want those questions.
 
@@ -42,7 +42,7 @@ Sometimes honesty is really the best policy!
 
 ---
 
-## Always choose the companies from the list
+## 7.4. Always choose the companies from the list
 
 Most of the world's companies have LinkedIn pages, so when adding your work experience make sure you search and select the company from the list, instead of writing the company name yourself. In the worst case, misspell it.
 
@@ -52,13 +52,13 @@ If the company is/was your own, and is still missing, now is a good time to crea
 
 ---
 
-## Don't leave locations empty
+## 7.5. Don't leave locations empty
 
 For each work experience add the country and city. Especially important if you have had an international work history.
 
 ---
 
-## Use the same structure for every work experience description
+## 7.6. Use the same structure for every work experience description
 
 Be consistent. If you have 5 or more work experiences, and each of them described with different structure, style and detail, it is not necessarily the image you want to give about yourself as a professional.
 
@@ -78,7 +78,7 @@ Chapter 3: What were the key things you learned, good or bad, in the position?
 
 ---
 
-## Add media to your work experiences
+## 7.7. Add media to your work experiences
 
 **Show, don't tell.**
 
@@ -88,6 +88,6 @@ Add photos, online reviews, YouTube videos, architecture pictures, Github links,
 
 ---
 
-## Volunteer Experience
+## 7.8. Volunteer Experience
 
 Listing your volunteer experiences can be a great addition to showing your personal character and positive values in life. But be careful, some profiles make me think if that person was volunteering because he cares, or because he wanted to show that he cares...

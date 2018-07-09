@@ -1,10 +1,10 @@
-# Don't ruin everything with wrong Settings
+# 3. Don't ruin everything with wrong Settings
 
 LinkedIn settings are not necessarily as easy as they could be, so pay attention. As even if you build a perfect profile, it doesn't do much if your settings are wrong and it's not properly visible to your target clients!
 
 ---
 
-## Make sure you understand "Share with network" setting
+## 3.1. Make sure you understand "Share with network" setting
 
 Before you start, do you want LinkedIn to broadcast every change you make to your network? For example, your boss seeing you polishing your online CV can be a strong signal that sometimes you want to send, but sometimes to avoid...
 
@@ -14,7 +14,7 @@ Better safe than sorry, always before LinkedIn edits check you publishing settin
 
 ---
 
-## Customize you profile public web address
+## 3.2. Customize you profile public web address
 
 LinkedIn allows you to customize your profile public web address, but surprisingly many people don't seem to know about it.
 
@@ -38,7 +38,7 @@ For instructions:
 
 ---
 
-## Set your Visibility settings to the MAX
+## 3.3. Set your Visibility settings to the MAX
 
 An awesome LinkedIn profile itself is pretty useless if no one can see it.
 
@@ -46,7 +46,7 @@ If you have reasons to limit your profile visibility, you're most probably not e
 
 ---
 
-## Make sure your connections can see your connections
+## 3.4. Make sure your connections can see your connections
 
 By default, your connections can see who you're connected with. You can turn that off from settings, but I wouldn't recommend it.
 
@@ -54,7 +54,7 @@ What's the point of networking, if you're not... networking?
 
 ---
 
-## Add your up-to-date contact information
+## 3.5. Add your up-to-date contact information
 
 LinkedIn is good helping people connect on LinkedIn, but not doing as good job in showing real work contact information. So if you want to be easily contacted, and by now I trust you do, you need to put a bit extra effort here.
 
@@ -68,7 +68,7 @@ The worst thing that can happen is that you miss a deal because client wasn't ab
 
 ---
 
-## Add multiple email addresses to your profile
+## 3.6. Add multiple email addresses to your profile
 
 Add **all old and current email addresses** your potential clients might use when trying to search for you.
 
@@ -78,7 +78,7 @@ Other email addresses are not shown in your profile, but your profile can be sti
 
 ---
 
-## Add your own web links
+## 3.7. Add your own web links
 
 Understandably, LinkedIn doesn't want visitors to jump into other websites, and thus doesn't really promote adding web links to your profile.
 
@@ -86,7 +86,7 @@ However, you should still add your relevant personal websites, Github profiles, 
 
 ---
 
-## Show your full name in the profile to all
+## 3.8. Show your full name in the profile to all
 
 You can limit who can see your full name on LinkedIn, or of course create a profile with a fake name. But I would strongly recommend to forget such ideas.
 
@@ -94,7 +94,7 @@ Set the visibility of your full name to be visible all.
 
 ---
 
-## Match your location with your goals
+## 3.9. Match your location with your goals
 
 Your location is not only visible in your profile, but used a lot to filter search results. Make sure your location is up-to-date and not misleading.
 
@@ -102,7 +102,7 @@ If you're traveling a lot or working and living in more than one countries, choo
 
 ---
 
-## Turn-off machine translations unless you specifically want them
+## 3.10. Turn-off machine translations unless you specifically want them
 
 The problem is that translations will be shown e.g. in Google results (bug in LinkedIn? https://productforums.google.com/forum/#!topic/websearch/xd9k8NtTps8)
 
@@ -110,7 +110,7 @@ The problem is that translations will be shown e.g. in Google results (bug in Li
 
 ---
 
-## Test your profile visibility
+## 3.11. Test your profile visibility
 
 As said, the LinkedIn visibility settings can be bit tricky, so be sure make sure you run tests:
 

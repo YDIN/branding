@@ -1,4 +1,4 @@
-# Make your personal branding personal
+# 2. Make your personal branding personal
 
 **People like to work with people, not with CVs.**
 
@@ -8,7 +8,7 @@ LinkedIn is a professional networking site, and LinkedIn profiles are meant to b
 
 ---
 
-## Make your profile look and feel like you
+## 2.1. Make your profile look and feel like you
 
 Couple of parts of the LinkedIn profile exceptionally suitable to add your personal flavor:
 
@@ -32,6 +32,6 @@ Sense of humor is usually a good thing, and something generally people appreciat
 
 ---
 
-## Disclaimer: Remember who is your client
+## 2.2. Disclaimer: Remember who is your client
 
 Of course, if you know that your target clients are exceptionally conservative and stick strictly only to business, then naturally it's better to minimize anything personal!

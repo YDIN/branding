@@ -1,4 +1,4 @@
-# Goals - What do you want to achieve with your branding?
+# 1. Goals - What do you want to achieve with your branding?
 
 *“Alice: Would you tell me, please, which way I ought to go from here?*
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Define and write down your target client groups (1-3)
+## 1.1. Define and write down your target client groups (1-3)
 
 Can be simply your target clients, but also think about some of their key stakeholders.
 
@@ -29,28 +29,28 @@ Write things down (for yourself), it often forces you to really think and evalua
 
 (More about profiling client organizations coming later in a separate HOW-TO...)
 
-## What reaction(s) do you want in your target client?
+## 1.2. What reaction(s) do you want in your target client?
 
 The first and most important reaction you want is to simply get your profile openeded. If your potential client sees you in LinkedIn search results or in the feed, and doesn't get interested enough to open your profile, whatever is in the profile doesn't matter. The first impression counts.
 
 After you've "lured" a person to open your profile, for each defined client group, think about what you want them to do?
 
-### 1. "Approve you"
+### A. "Approve you"
 
 For example, above mentioned HR checks your profile and doesn't find reasons not to hire you.
 
-### 2. Connect with you
+### B. Connect with you
 
 You look like a person you client wants to have in her professional network.
 
-### 3. Contact you
+### C. Contact you
 
 You want visitor to directly contact you related to a job, sales, etc.
 
-### 4. Recommend and/or connect you to someone else
+### D. Recommend and/or connect you to someone else
 
 The client sends your profile or an introduction to someone else that might be interested to get contact with you. Anyone with any sales experience knows the value of referrals or warm introductions.
 
-### 5. Something else, what?
+### E. Something else, what?
 
 > **Your goals might be something else, but make sure you build your profile for your target clients and the wanted reactions in mind!**

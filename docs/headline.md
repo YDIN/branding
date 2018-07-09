@@ -1,6 +1,6 @@
-# Is "Meaningless Title at Neverheard Company" your Headline of choice?
+# 5. Is "Meaningless Title at Neverheard Company" your Headline of choice?
 
-## Give good first impression
+## 5.1. Give good first impression
 
 Your profile headline is visible on LinkedIn in almost everywhere next to your name. Also if someone is Googling your name, your headline is again shown in the Google Search results.
 
@@ -12,7 +12,7 @@ It should make them interested to click and open your profile and read learn mor
 
 ---
 
-## Don't use LinkedIn default headline
+## 5.2. Don't use LinkedIn default headline
 
 By default, LinkedIn updates your headline to "Current title at Current Company". 
 
@@ -28,13 +28,13 @@ Headline is one of the most important, and difficult, parts of your brand, so do
 
 ---
 
-## Define your target client and wanted reactions
+## 5.3. Define your target client and wanted reactions
 
 Go to [Goals page](goals.md) .
 
 ---
 
-## Find your key selling point
+## 5.4. Find your key selling point
 
 Creating a perfect headline from the scratch is difficult. The other parts of your profile, like Experience and Education, are much easier to write as they are more just listing existing facts, where as defining a key selling point can be process of creating something new.
 
@@ -52,7 +52,7 @@ You might end up something between 4 to 10 items, basically "raw material" for f
 
 ---
 
-## Create an interesting, memorable and fun headline :)
+## 5.5. Create an interesting, memorable and fun headline :)
 
 **The most important thing about headline is to understand that it's not for YOU, it's for your client.**
 
@@ -85,7 +85,7 @@ Then, what 1-2 other points you would like to (optionally) make? Add to the seco
 
 ---
 
-## Test and iterate your headline
+## 5.6. Test and iterate your headline
 
 Ask comments and feedback to your drafts from your friends, preferably from people who belong to your target client group. A/B testing with different versions might also help.
 
@@ -95,7 +95,7 @@ And don't worry, it's usually hard to do anything worse than the default "Meanin
 
 ---
 
-## "Show, don't tell"
+## 5.7. "Show, don't tell"
 
 Avoid using words like "experienced", "expert", "senior" and "specialist" in your headline (and in the whole profile). That's often easier said than done, but especially in the headline such words take valuable space and don't really add much value, sometimes actually the opposite: The world is so full of self-proclaimed "experts", that using such words can even have a negative first impression.
 
@@ -105,7 +105,7 @@ Instead, try to show your experience or specialist status.
 
 ---
 
-## Don't use overused buzzwords
+## 5.8. Don't use overused buzzwords
 
 Have you heard about that genuinely innovative person who keeps on using "the i-word"? No, well me neither...
 
@@ -113,7 +113,7 @@ Also if you describe yourself as "Ninja" or something like that in LinkedIn, I'l
 
 ---
 
-## Use only terms that are familiar to your target clients
+## 5.9. Use only terms that are familiar to your target clients
 
 Your headline is not for you, it's for your client. Make sure the professional terms and possible acronyms are wildly known and accepted by your target clients.
 
@@ -121,7 +121,7 @@ It not your client's job, nor interest, to try to Google and figure out what you
 
 ---
 
-## Don't use weird symbols nor UPPERCASE
+## 5.10. Don't use weird symbols nor UPPERCASE
 
 Don't use symbols like ➤, ◊, etc in your headline. Unless you're a teenager, or really able to deliver some truly unique ASCII art with one line of text.
 
@@ -129,7 +129,7 @@ Don't use all UPPERCASE letters, unless acronym or a brand name require's it ("I
 
 ---
 
-## Don't use "seeking for opportunities" or "open for new challenges" in your headline
+## 5.11. Don't use "seeking for opportunities" or "open for new challenges" in your headline
 
 Very commonly used in LinkedIn, but gives an impression of a person passively waiting for someone to contact and ask.
 
@@ -141,7 +141,7 @@ If you want to describe more publicly about your interest to find a new job, or 
 
 ---
 
-## Test you headline on both mobile and desktop
+## 5.12. Test you headline on both mobile and desktop
 
 If we decide to use the whole 120 character, make sure to test it on both mobile and desktop to see what actually is that first impression you give. 
 

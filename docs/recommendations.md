@@ -1,4 +1,4 @@
-# Recommendations do matter
+# 11. Recommendations do matter
 
 It's easy to say their fake or irrelevant, but in a networked economy like LinkedIn, recommendations from right kind of persons can support your personal brand and build your credibility significantly.  
 
@@ -6,7 +6,7 @@ It's easy to say their fake or irrelevant, but in a networked economy like Linke
 
 ---
 
-## YOU MUST START ASKING FOR RECOMMENDATIONS FOR EVERY JOB YOU HAVE HAD. NO EXCUSES.
+## 11.1. YOU MUST START ASKING FOR RECOMMENDATIONS FOR EVERY JOB YOU HAVE HAD. NO EXCUSES.
 
 If you have 10+ years of successful working history, and you can't find at least 5 credible professional people to recommend you... How successful has it really been..? 
 
@@ -16,7 +16,7 @@ Actually, getting asked to give a recommendation can be seen also as a complimen
 
 ---
 
-## Create your own 360 degrees review from recommendations
+## 11.2. Create your own 360 degrees review from recommendations
 
 Not only your clients and superiors but also teammates or subordinates from previous jobs are great for recommendations. Think about recommendations like a 360-degree review. Ideally, you get feedback from all different stakeholders you work with.
 
@@ -24,7 +24,7 @@ When sending a recommendation request, you have to choose from various options w
 
 ---
 
-## Always write a custom message when asking for recommendations
+## 11.2. Always write a custom message when asking for recommendations
 
 You're basically asking someone to do you a favor. Not only to recommend you, but the public nature of LinkedIn recommendations means, that the person writing the recommendation may want to put some time and effort into it.
 
@@ -50,7 +50,7 @@ Here's an example message:
 
 ---
 
-## Give only honest recommendations to others
+## 11.3. Give only honest recommendations to others
 
 The recommendations you give are also important, not only to people you recommend, but they are also visible in your own profile.
 

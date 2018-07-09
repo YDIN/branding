@@ -1,10 +1,10 @@
-# Profile Photo
+# 4. Profile Photo
 
 Many people don't seem to underestimate the importance of a good profile photo. If you want to present yourself as a credible professional to work with, you should have a professional profile photo.
 
 Profile photo can and will tell a lot about you to a person who you've never met before. It's part of the impression before the first impression, how people will prepare for a meeting you or talking on the phone with you.
 
-## Choose a photo that looks like you
+## 4.1. Choose a photo that looks like you
 
 Or even before that, have a photo, and have a photo of you! For some strange reasons, some even otherwise professionally credible people either don't even have a profile photo, or have some Donald Duck or such in the profile...
 
@@ -20,7 +20,7 @@ B. Or a professional quality face photo of you smiling friendly to the camera?
 
 ---
 
-### Hire a pro to take your profile photo
+### 4.2. Hire a pro to take your profile photo
 
 Most probably you're promoting yourself as a professional in whatever your field is, and telling your clients about the difference between a pro and an amateur. So when it comes to your profile photo, why you still settle down with a crappy selfie?
 
@@ -28,7 +28,7 @@ Ok, you don't necessarily have to have a professional to take your photo, but it
 
 ---
 
-## Use enough big resolution
+## 4.3. Use enough big resolution
 
 In the LinkedIn profile page, the photo is quite small but opens and zooms so make sure resolution is large enough.
 
@@ -38,7 +38,7 @@ https://www.linkedin.com/help/linkedin/answer/4981
 
 ---
 
-## Make sure your face suits for a round avatar
+## 4.4. Make sure your face suits for a round avatar
 
 A common advice is to make sure your face takes up at least 60% of the frame.
 
@@ -46,7 +46,7 @@ In addition to that, crop you photo so that it works well in a round avatar.
 
 ---
 
-## Have a friendly, not creepy, smile
+## 4.5. Have a friendly, not creepy, smile
 
 The point of the photo is to show you as a person people like to work with, and make you easy to approach.
 
@@ -56,19 +56,19 @@ If you don't feel comfortable smiling like insurance sales guy to camera, that's
 
 ---
 
-## Wear what you wear at work
+## 4.6. Wear what you wear at work
 
 Old piece of advice still work: dress up to the position you're looking for.
 
 ---
 
-## Choose a background that isn’t distracting
+## 4.7. Choose a background that isn’t distracting
 
 The purpose of the profile photo is to focus on your face, so try to have something simple as the background.
 
 ---
 
-## Use same profile photo in all work related profiles
+## 4.8. Use same profile photo in all work related profiles
 
 Sometimes names, titles and companies are easy to forget, but many people remember and recognize faces better.
 
@@ -78,7 +78,7 @@ Sounds boring? Maybe yes, feel free to play with your photos in Instagram or Sna
 
 ---
 
-## Use the background image with more personal touch
+## 4.9. Use the background image with more personal touch
 
 Not maybe the most important part of your LinkedIn profile... but as such option is available, why not use it?
 

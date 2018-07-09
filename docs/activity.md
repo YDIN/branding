@@ -1,4 +1,4 @@
-# Activity - I know what you did last summer...
+# 13. Activity - I know what you did last summer...
 
 Like it or not, LinkedIn IS a social media, and pretty much move you make is visible in your profile.
 
@@ -6,7 +6,7 @@ Like it or not, LinkedIn IS a social media, and pretty much move you make is vis
 
 ---
 
-## Make sure you don't do stupid things that will be visible in your Activities section
+## 13.1. Make sure you don't do stupid things that will be visible in your Activities section
 
 **Activities section is very highly visible in your profile just below your summary.**
 
