@@ -19,6 +19,8 @@ To maximize you profile's "findability", make sure you enable all possible "hori
 - Accomplishments
 - Interests
 
+In addition to being channels to lead more people to find your profile, different connections provide "social proof" that can be sometimes important: "went to same school", "connected to many people I know", "endorsed by lot of professinals in domain", "we're both in Chengdu IT Professionals group" and so on.
+
 ---
 
 ## VERTICAL - How more information about you can be found
