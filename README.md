@@ -32,6 +32,8 @@ Each section text provides additional information (explanation, tips, templates,
 
 ### Stop for a moment first:
 
+[0. Before we start, **LinkedIn for Dummies** (yes, including YOU!)](docs/linkedin-dimensions.md)
+
 [1. What are your **goals**?](docs/goals.md)
 
 [2. Make your personal branding **personal**](docs/personal.md)
