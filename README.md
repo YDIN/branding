@@ -52,7 +52,7 @@ Each section text provides additional information (explanation, tips, templates,
 
 ### The easy, or easier, ones:
 
-[7. Work **experience**](docs/experience.md)
+[7. Your **Work Experience** is more than just titles and companies listed](docs/experience.md)
 
 [8. **Education**](docs/education.md)
 
