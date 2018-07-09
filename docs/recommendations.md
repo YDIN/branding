@@ -36,11 +36,9 @@ Here's an example message:
 
 *"Hi Jack,*
 
-*I might be considering next career steps later this year, moving more towards project management.*
+*I'm planning next career steps, moving more from current developer role towards project management.*
 
-*I'm sending this to ask you for a brief recommendation of my work that I can include in my LinkedIn profile.*
-
-*Please be honest and truthful, but if you can't come up with anything positive to say might be better just to ignore this message ;)*
+*I'm sending this to ask you for a brief recommendation of my work from the projext XZY we worked together that I can include in my LinkedIn profile. Please be honest and truthful, but if you can't come up with anything positive to say might be better just to ignore this message ;)*
 
 *If you have any questions, let me know.*
 
