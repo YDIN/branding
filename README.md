@@ -62,7 +62,7 @@ Each section text provides additional information (explanation, tips, templates,
 
 [10. **Skills and Endorsements**](docs/skills.md)
 
-[11. **Recommendations**](docs/recommendations.md)
+[11. **Recommendations** do matter. A lot.](docs/recommendations.md)
 
 [12. **Interests**](docs/interests.md)
 
