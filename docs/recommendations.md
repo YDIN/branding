@@ -2,6 +2,8 @@
 
 It's easy to say their fake or irrelevant, but in a networked economy like LinkedIn, recommendations from right kind of persons can support your personal brand and build your credibility significantly.  
 
+![recommendations](pics/recommendations.png)
+
 ---
 
 ## YOU MUST START ASKING FOR RECOMMENDATIONS FOR EVERY JOB YOU HAVE HAD. NO EXCUSES.
