@@ -6,7 +6,9 @@
 
 ## HORIZONTAL - How you can be found and verified ("social proof")
 
-**Make sure you enable all possible "horizontal channels":**
+In addition to searching your name, or clicking a link to your profile somewhere outside Linkedin, your profile can be found multiple different ways.
+
+To maximize you profile's "findability", make sure you enable all possible "horizontal channels":
 
 - Connections (Other profiles)
 - Location
@@ -19,9 +21,11 @@
 
 ---
 
-VERTICAL - How more information about you can be found
+## VERTICAL - How more information about you can be found
 
-**Make sure you build your profile content to encourage getting to level 4 (or at least 3).**
+LinkedIn reveals information in "layers": just a teaser at first, and then more if the visitor gets interested and clicks deeper into your profile.
+
+Make sure you build your profile content to encourage getting to level 4 (or at least 3):
 
 ### 1. Profile link
 
