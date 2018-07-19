@@ -6,7 +6,7 @@ Your profile headline is visible on LinkedIn in almost everywhere next to your n
 
 In most of the cases, with profile photo, your headline is **the first impression** of you.
 
-A successful LinkedIn headline should tell your client what your value proposition is, in practice "What I can do for YOU". 
+A successful LinkedIn headline should tell your client what your value proposition is, in practice "What I can do for YOU".
 
 It should make them interested to click and open your profile and read learn more about you. If that happens... well, maybe the client opens someone else's profile!
 
