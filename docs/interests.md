@@ -4,7 +4,7 @@
 
 LinkedIn shows by default 6 randomly selected interest in your profile, the whole list is then available behind "See all".
 
-Remove companies and influencers, and leave groups, to make sure the ones are shown in your profile don't accidentally contain something that doesn't fit into your brand.
+Remove unnecessary companies and influencers, and leave groups, to make sure the ones are shown in your profile don't accidentally contain something that doesn't fit into your brand.
 
 ## 12.2. Follow companies and influencers
 
