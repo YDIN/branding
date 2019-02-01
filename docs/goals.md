@@ -31,13 +31,13 @@ Write things down (for yourself), it often forces you to really think and evalua
 
 ## 1.2. What reaction(s) do you want in your target client?
 
-The first and most important reaction you want is to simply get your profile openeded. If your potential client sees you in LinkedIn search results or in the feed, and doesn't get interested enough to open your profile, whatever is in the profile doesn't matter. The first impression counts.
+The first and most important reaction you want is to simply get your profile opened. If your potential client sees you in LinkedIn search results or in the feed and doesn't get interested enough to open your profile, whatever is in the profile doesn't matter. The first impression counts.
 
 After you've "lured" a person to open your profile, for each defined client group, think about what you want them to do?
 
 ### A. "Approve you"
 
-For example, above mentioned HR checks your profile and doesn't find reasons not to hire you.
+For example, above-mentioned HR checks your profile and doesn't find reasons not to hire you.
 
 ### B. Connect with you
 
@@ -45,11 +45,11 @@ You look like a person you client wants to have in her professional network.
 
 ### C. Contact you
 
-You want visitor to directly contact you related to a job, sales, etc.
+You want a visitor to directly contact you related to a job, sales, etc.
 
 ### D. Recommend and/or connect you to someone else
 
-The client sends your profile or an introduction to someone else that might be interested to get contact with you. Anyone with any sales experience knows the value of referrals or warm introductions.
+The client sends your profile or an introduction to someone else that might be interested to get in contact with you. Anyone with any sales experience knows the value of referrals or warm introductions.
 
 ### E. Something else, what?
 
