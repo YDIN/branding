@@ -8,7 +8,7 @@ In most of the cases, with a profile photo, your headline is **the first impress
 
 A successful LinkedIn headline should tell your client what your value proposition is, in practice "What I can do for YOU".
 
-It should make them interested to click and open your profile and read learn more about you. If that happens... well, maybe the client opens someone else's profile!
+It should make them interested to click and open your profile and read learn more about you. If that doesn't happens... well, maybe the client opens someone else's profile!
 
 ---
 
@@ -48,7 +48,7 @@ You could e.g. start with writing down 1-2 sentence answers to the following que
 4. What is the value you create for your clients? What are the actual results?
 5. How and why you're different?
 
-You might end up something between 4 to 10 items, basically "raw material" for finding your key selling point, and LinkedIn headline.
+You might end up something between 4 to 10 items, basically "raw material" for finding your key selling point, the LinkedIn headline.
 
 ---
 
@@ -69,9 +69,11 @@ You can try to think about the headline in two parts:
 1. The first 60 (or less) characters that are visible always
 2. The second 60 (or less) characters that are guaranteed to be visible only when the profile is opened
 
-From list collected earlier, think about which 2-3 things are the most important, and try to arrange them as the key message to the first 60 characters.
+From the list collected earlier, think about which 2-3 things are the most important, and try to arrange them as the key message to the first 60 characters.
 
-Then, what 1-2 other points you would like to (optionally) make? Add to the second part. The second part can be fully supporting the first points, but can also be a good part for a fun fact, or something creative and memorable.
+Then, what 1-2 other points you would like to (optionally) make? Add those to the second part. 
+
+The second part can be fully supporting the first points, but can also be a good part for a fun fact, or something creative and memorable.
 
 **Two examples:**
 
@@ -101,7 +103,7 @@ Avoid using words like "experienced", "expert", "senior" and "specialist" in you
 
 Instead, try to show your experience or specialist status. 
 
-"10+ years in back-end solutions" can more powerful than "Back-end solutions specialist". Especially when you can prove that with later in your profile with work history, recommendations, and endorsements.
+"10+ years in back-end solutions" can be more powerful than "Back-end solutions specialist". Especially when you can prove that with later in your profile with work history, recommendations, and endorsements.
 
 ---
 
@@ -109,7 +111,7 @@ Instead, try to show your experience or specialist status.
 
 Have you heard about that genuinely innovative person who keeps on using "the i-word"? No, well me neither...
 
-Also if you describe yourself as "Ninja" or something like that in LinkedIn, I'll take a screenshot of your profile and share that to everyone one day when you turn 25 and apply for some more serious position.
+Also if you describe yourself as "Ninja" or something like that in LinkedIn, I'll take a screenshot of your profile and share that to everyone one day when you turn 25 and try to apply to some more serious position...
 
 ---
 
@@ -143,7 +145,7 @@ If you want to describe more publicly about your interest to find a new job, or 
 
 ## 5.12. Test your headline on both mobile and desktop
 
-If we decide to use the whole 120 characters, make sure to test it on both mobile and desktop to see what actually is that first impression you give. 
+If you decide to use the whole 120 characters, make sure to test it on both mobile and desktop to see what actually is that first impression you give. 
 
 If most of your relevant message is not shown, you need to re-structure the headline.
 
