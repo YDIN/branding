@@ -1,10 +1,10 @@
-# 5. Is "Meaningless Title at Neverheard Company" your Headline of choice?
+# 5. Is "Meaningless Title at Never-heard Company" your Headline of choice?
 
-## 5.1. Give good first impression
+## 5.1. Give a good first impression
 
 Your profile headline is visible on LinkedIn in almost everywhere next to your name. Also if someone is Googling your name, your headline is again shown in the Google Search results.
 
-In most of the cases, with profile photo, your headline is **the first impression** of you.
+In most of the cases, with a profile photo, your headline is **the first impression** of you.
 
 A successful LinkedIn headline should tell your client what your value proposition is, in practice "What I can do for YOU".
 
@@ -20,31 +20,31 @@ If you happen to be "Founder and CEO at Facebook" or "CTO at Google", I guess th
 
 But for the rest of us, the default "[Long meaningless title] at [company you've never heard of]" can be completely irrelevant for a person hearing/reading it.
 
-Headline is one of the most important, and difficult, parts of your brand, so don't leave it to the LinkedIn default.
+The headline is one of the most important, and difficult, parts of your brand, so don't leave it to the LinkedIn default.
 
 ![headline](pics/headline.png)
 
-> Would you buy a used car from guy like this..?
+> Would you buy a used car from a guy like this..?
 
 ---
 
 ## 5.3. Define your target client and wanted reactions
 
-Go to [Goals page](goals.md) .
+Go to [Goals page](goals.md).
 
 ---
 
 ## 5.4. Find your key selling point
 
-Creating a perfect headline from the scratch is difficult. The other parts of your profile, like Experience and Education, are much easier to write as they are more just listing existing facts, where as defining a key selling point can be process of creating something new.
+Creating a perfect headline from the scratch is difficult. The other parts of your profile, like Experience and Education, are much easier to write as they are more just listing existing facts, whereas defining a key selling point can be a process of creating something new.
 
-Often is easier to first list the things you want include in your headline without format or length constraints, and then try different versions in the target length.
+Often is easier to first list the things you want included in your headline without format or length constraints, and then try different versions in the target length.
 
 You could e.g. start with writing down 1-2 sentence answers to the following questions:
 
 1. Who/what you are? What your "role"?
-2. What you're offering? What is your most important capability you want to focus?
-3. Who are you working for? Who are your clients?
+2. What you're offering? What is your the most important capability you want to focus?
+3. Whom are you working for? Who are your clients?
 4. What is the value you create for your clients? What are the actual results?
 5. How and why you're different?
 
@@ -54,13 +54,13 @@ You might end up something between 4 to 10 items, basically "raw material" for f
 
 ## 5.5. Create an interesting, memorable and fun headline :)
 
-**The most important thing about headline is to understand that it's not for YOU, it's for your client.**
+**The most important thing about the headline is to understand that it's not for YOU, it's for your client.**
 
-You want a person who sees just the your profile photo, name and headline to get interested and click to open your full profile.
+You want a person who sees just your profile photo, name and headline to get interested and click to open your full profile.
 
-The maximum length of Headline is 120 characters, but do you really need to use that all? **No, usually a shorter is better.**
+The maximum length of the Headline is 120 characters, but do you really need to use that all? **No, usually a shorter is better.**
 
-In LinkedIn feed and search results, only first ~60 (in mobile app) and ~90 (desktop website) characters are shown before cutting with "...". Only on the actual profile the whole 120 is visible.
+In LinkedIn feed and search results, only first ~60 (in the mobile app) and ~90 (desktop website) characters are shown before cutting with "...". Only on the actual profile the whole 120 is visible.
 
 With these length constraints, it is often hard to squeeze everything you want especially to the first 60 characters. Thus there is no one right way to form a good headline.
 
@@ -89,7 +89,7 @@ Then, what 1-2 other points you would like to (optionally) make? Add to the seco
 
 Ask comments and feedback to your drafts from your friends, preferably from people who belong to your target client group. A/B testing with different versions might also help.
 
-Anyways the point is taht headline is not something that will be carved on a stone, instead something to develop and iterate over the time. 
+Anyways the point is that headline is not something that will be carved on a stone, instead of something to develop and iterate over the time. 
 
 And don't worry, it's usually hard to do anything worse than the default "Meaningless Job Title at The Company You've Never Heard Of".
 
@@ -101,7 +101,7 @@ Avoid using words like "experienced", "expert", "senior" and "specialist" in you
 
 Instead, try to show your experience or specialist status. 
 
-"10+ years in back-end solutions" can more powerful than "Back-end solutions specialist". Especially when you can prove that with later in your profile with work history, recommendations and endorsements.
+"10+ years in back-end solutions" can more powerful than "Back-end solutions specialist". Especially when you can prove that with later in your profile with work history, recommendations, and endorsements.
 
 ---
 
@@ -125,7 +125,7 @@ It not your client's job, nor interest, to try to Google and figure out what you
 
 Don't use symbols like ➤, ◊, etc in your headline. Unless you're a teenager, or really able to deliver some truly unique ASCII art with one line of text.
 
-Don't use all UPPERCASE letters, unless acronym or a brand name require's it ("IBM" instead of "ibm").
+Don't use all UPPERCASE letters, unless acronym or a brand name requires it ("IBM" instead of "ibm").
 
 ---
 
@@ -133,17 +133,17 @@ Don't use all UPPERCASE letters, unless acronym or a brand name require's it ("I
 
 Very commonly used in LinkedIn, but gives an impression of a person passively waiting for someone to contact and ask.
 
-That may work sometimes, but in generally (also in job hunting) it's always better to take "the driver's seat", than wait for someone else to take the initiative. Or even worse, give that impression that you're just a passenger...
+That may work sometimes, but in general (also in job hunting) it's always better to take "the driver's seat", than wait for someone else to take the initiative. Or even worse, give that impression that you're just a passenger...
 
-If you're profile is interesting, people will contact you, even without saying "desperately looking" in your headline. You can also use LinkedIn's job seeking settings to make sure you're profile will be flagged to recruiters etc as "actively looking".
+If your profile is interesting, people will contact you, even without saying "desperately looking" in your headline. You can also use LinkedIn's job-seeking settings to make sure you're profile will be flagged to recruiters etc as "actively looking".
 
 If you want to describe more publicly about your interest to find a new job, or just consulting gigs, you can mention that at the end of your summary with more details about what you're looking for, and instructions how to contact you. (TODO: Link to Summary page) 
 
 ---
 
-## 5.12. Test you headline on both mobile and desktop
+## 5.12. Test your headline on both mobile and desktop
 
-If we decide to use the whole 120 character, make sure to test it on both mobile and desktop to see what actually is that first impression you give. 
+If we decide to use the whole 120 characters, make sure to test it on both mobile and desktop to see what actually is that first impression you give. 
 
 If most of your relevant message is not shown, you need to re-structure the headline.
 
@@ -151,7 +151,7 @@ If most of your relevant message is not shown, you need to re-structure the head
 
 ## Examples from actual LinkedIn profiles
 
-Copy writing artist transforming technical jargon from flat-line boring into a juicy novel-like page-turner
+Copywriting artist transforming technical jargon from flat-line boring into a juicy novel-like page-turner
 
 Former overweight food lover turned health nut coaching fellow foodies in the joys of the Paleo diet (YUM-O)
 
