@@ -1,6 +1,6 @@
 # 11. Recommendations do matter
 
-It's easy to say their fake or irrelevant, but in a networked economy like LinkedIn, recommendations from right kind of persons can support your personal brand and build your credibility significantly.  
+It's easy to say they're fake or irrelevant, but in a networked economy like LinkedIn, recommendations from right kind of persons can support your personal brand and build your credibility significantly.  
 
 ![recommendations](pics/recommendations.png)
 
@@ -8,11 +8,11 @@ It's easy to say their fake or irrelevant, but in a networked economy like Linke
 
 ## 11.1. YOU MUST START ASKING FOR RECOMMENDATIONS FOR EVERY JOB YOU HAVE HAD. NO EXCUSES.
 
-If you have 10+ years of successful working history, and you can't find at least 5 credible professional people to recommend you... How successful has it really been..? 
+If you have 10+ years of successful working history, and you can't find at least 5 credible professionally credible people to recommend you... How successful has it really been..? 
 
 A lot of people are willing to give you recommendations, but most probably they won't proactively do it. So you need to ask, and LinkedIn makes that really easy. **Don't be shy.**
 
-Actually, getting asked to give a recommendation can be seen also as a compliment or flattering: recommendations are usually asked from people regarded as high-value profiles.
+Actually, getting asked to give a recommendation can be seen also as a compliment or flattering: recommendations are usually asked only from people regarded as high-value profiles.
 
 ---
 
@@ -32,7 +32,7 @@ LinkedIn gives a deadly boring default *"Hi Jack, can you write me a recommendat
 
 Even better, in your message explain shortly about your future plans, and why and what kind of a recommendation would help you. As an extreme example, you can write a draft recommendation yourself and give that as "an input".
 
-**Whatever you do, try to make for the receiver giving the recommendation to you as easy as possible.**
+**Whatever you do, try to make giving the recommendation to you as easy as possible.**
 
 Here's an example message:
 
