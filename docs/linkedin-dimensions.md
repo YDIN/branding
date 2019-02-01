@@ -8,7 +8,7 @@
 
 In addition to searching your name, or clicking a link to your profile somewhere outside Linkedin, your profile can be found multiple different ways.
 
-To maximize you profile's "findability", make sure you enable all possible "horizontal channels":
+To maximize your profile's "findability", make sure you enable all possible "horizontal channels":
 
 - Connections (Other profiles)
 - Location
@@ -19,7 +19,7 @@ To maximize you profile's "findability", make sure you enable all possible "hori
 - Accomplishments
 - Interests
 
-In addition to being channels to lead more people to find your profile, different connections provide "social proof" that can be sometimes important: "went to same school", "connected to many people I know", "endorsed by lot of professinals in domain", "we're both in Chengdu IT Professionals group" and so on.
+In addition to being channels to lead more people to find your profile, different connections provide "social proof" that can be sometimes important: "went to same school", "connected to many people I know", "endorsed by lot of professionals in domain", "we're both in Chengdu IT Professionals group" and so on.
 
 ---
 
