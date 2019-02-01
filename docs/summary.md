@@ -2,9 +2,9 @@
 
 ## 6.1. Keep the constraints in mind
 
-Summary maximum length is 2000 characters, and for "a summary" that is not a short text...
+Summary's maximum length is 2000 characters, and for "a summary" that is not a short text...
 
-For your profile visitor, the summary is not fully shown in collapsed mode, only first ~300 characters in desktop and ~160 characters in mobile app shown.
+For your profile visitor, the summary is not fully shown in collapsed mode, only the first ~300 characters in the desktop and ~160 characters in the mobile app are shown.
 
 Most probably your summary is longer than that, so you should focus to the most important things in the first sentences (in case full summary is not opened at all)... or maybe a teaser to get to open the full summary?
 
@@ -26,7 +26,7 @@ Unless the point of your profile is to show-off your language skills.
 
 ## 6.4. Don't use long lists
 
-List of bullet points is often a very practical way to show things. 
+List of bullet points is often a very practical way to list things. 
 
 But if you use lists, a good rule of thumb to follow is to have max 5 items. If you have a list with more than 5, maybe you should already consider having more strict focus, or split it into two separate lists?
 
@@ -38,7 +38,7 @@ Too often people have lists of 27 different competencies in their profiles, whic
 
 The LinkedIn summary isn’t about you. It’s about the person reading it. It's ultimately your sales pitch to your target client.
 
-Before writing anything, go to Goals (LINK) and define who your target clients, and the reaction you want from them.
+Before writing anything, go to Goals [Goals](docs/goals.md) and define who your target clients are, and the reactions you want from them.
 
 ---
 
@@ -52,7 +52,7 @@ Don't use 3rd person, write your own summary with "I...". That way the summary w
 
 ## 6.7. Example structure: Past, Now, Future
 
-Again, there is no one right way to write a perfect summary, but one approach is to build it around these questions:
+Again, there is no one right way to write a perfect summary, but one good approach is to build it around these questions:
 
 1. What's your background?
 2. What are you doing now?
@@ -70,25 +70,25 @@ This is visible for the visitors also when the summary is collapsed.
 
 A couple of sentences about who you are, and a summary of your relevant work history.
 
-This chapter should make the reader nod and think "yeah this is a pretty solid guy, been there and done that, good."
+**This chapter should make the reader nod and think "yeah this is a pretty solid guy, been there and done that, good."**
 
 ### Present
 
-What are you doing now, what role and focus areas? What are your key capabilities today?
+What are you doing now, what's your role and focus areas? What are your key capabilities today?
 
 What kind clients are your helping, and what is the value your creating for them?
 
 Why they choose you, how do you differentiate compared to lots of other similar people?
 
-This chapter should make the reader know your current capabilities, and to realize that you're a focused high-performer today.
+**This chapter should make the reader know your current capabilities, and to realize that you're a focused high-performer today.**
 
 ### Future
 
-This is the most neglected part of many people's CVs and LinkedIn summaries: Describing where you want to go in the future, what do you want to do, what do you want to be?
+This is the most neglected part of many people's CVs and LinkedIn summaries: Describing where you want to go in the future, what do you want to do, and what do you want to be?
 
-Seeing summaries to talk about the future plans is actually so rare, that every time it is an interesting and exciting exception. It shows that **the person is first of thinking about the future**, driven and ambitious, and overall have some ideas what the future might look like.
+Seeing summaries to talk about the future plans is actually so rare, that every time it is an interesting and exciting exception. It shows that **the person is first of all thinking about the future**, driven and ambitious, and overall have some ideas what the future might look like.
 
-To put it bluntly, a profile without future plans is just an offering for the reader: "here I am, take me if you're interested". While a profile saying "this is what I'm going to do in the future" is more like a challenge or an invite for the reader to join the journey.
+**To put it bluntly, a profile without future plans is just an offering for the reader: "here I am, take me if you're interested". While a profile saying "this is what I'm going to do in the future" is more like a challenge or an invite for the reader to join the journey.**
 
 ### Something personal (optional)
 
@@ -112,7 +112,7 @@ Q: Should add a list of keywords to end for search engines??? Not sure...
 
 ## 6.8. Test readability with desktop and mobile
 
-LinkedIn is most probably full of profile summaries, that are never read by the person him/herself.
+LinkedIn is full of profile summaries that most probably have never beeb read by the person him/herself.
 
 Read your profile to yourself in both desktop and mobile. Are there long and complicated sentences you could split into shorter ones? Would splitting a longish chapter into two separated by an empty row make it easier for the reader?
 
@@ -124,4 +124,4 @@ Read your profile to yourself in both desktop and mobile. Are there long and com
 
 Media will be highly visible below your Summary in both collapsed and open mode and can be an effective way to get a profile visitor to open your Summary to see or read more in detail.
 
-Examples to add?
+TODO: Examples to add?
