@@ -20,7 +20,7 @@ Interest to foreign languages is often connected to an interest in foreign cultu
 
 They may not tell much about your capabilities today, but they can tell a lot about you as a person and can be very important as "ice-breakers" for someone interest to start a conversation with you, or show a shared history and/or interest together.
 
-Coded simple games for C64 during the 90s and was featured in a PC magazine? Perfect, add the project photo and upload a photo of the page. Source codes still somehow available..? Even better, perfect for GitHub!
+Coded simple games for C64 during the 80s and was featured in a PC magazine? Perfect, add the project photo and upload a photo of the page. Source codes still somehow available..? Even better, perfect for GitHub!
 
 Interested in machine learning and coding some basic tests on free time? Great, if you're not already, make your project public and maybe get connected with people with similar interests!
 
