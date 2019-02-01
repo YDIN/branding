@@ -14,7 +14,7 @@ Better safe than sorry, always before LinkedIn edits check you publishing settin
 
 ---
 
-## 3.2. Customize you profile public web address
+## 3.2. Customize your profile public web address
 
 LinkedIn allows you to customize your profile public web address, but surprisingly many people don't seem to know about it.
 
@@ -48,7 +48,7 @@ If you have reasons to limit your profile visibility, you're most probably not e
 
 ## 3.4. Make sure your connections can see your connections
 
-By default, your connections can see who you're connected with. You can turn that off from settings, but I wouldn't recommend it.
+By default, your connections can see whom you're connected with. You can turn that off from settings, but I wouldn't recommend it.
 
 What's the point of networking, if you're not... networking?
 
@@ -56,15 +56,15 @@ What's the point of networking, if you're not... networking?
 
 ## 3.5. Add your up-to-date contact information
 
-LinkedIn is good helping people connect on LinkedIn, but not doing as good job in showing real work contact information. So if you want to be easily contacted, and by now I trust you do, you need to put a bit extra effort here.
+LinkedIn is good for helping people connect on LinkedIn, but not doing as good job in showing real work contact information. So if you want to be easily contacted, and by now I trust you do, you need to put a bit extra effort here.
 
 Make sure your contact information (email, mobile, etc) is up-to-date on LinkedIn, as it is shown to contacts in your network. Focus on methods you know your potential clients might prefer to use.
 
 ![contacts](pics/contacts.png)
 
-If you want to ensure also people outside of your network easily contact you, you can add to end of your summary instructions how to contact you, e.g. your email and/or phone number.
+If you want to ensure also people outside of your network easily contact you, you can add to end of your summary instructions on how to contact you, e.g. your email and/or phone number.
 
-The worst thing that can happen is that you miss a deal because client wasn't able to find your contacts. Wouldn't be the first time...
+The worst thing that can happen is that you miss a deal because the client wasn't able to find your contacts. Wouldn't be the first time...
 
 ---
 
@@ -80,7 +80,7 @@ Other email addresses are not shown in your profile, but your profile can be sti
 
 ## 3.7. Add your own web links
 
-Understandably, LinkedIn doesn't want visitors to jump into other websites, and thus doesn't really promote adding web links to your profile.
+Understandably, LinkedIn doesn't want visitors to jump into other websites and thus doesn't really promote adding web links to your profile.
 
 However, you should still add your relevant personal websites, Github profiles, online portfolios, etc (as seen in the pic above).
 
@@ -88,7 +88,7 @@ However, you should still add your relevant personal websites, Github profiles, 
 
 ## 3.8. Show your full name in the profile to all
 
-You can limit who can see your full name on LinkedIn, or of course create a profile with a fake name. But I would strongly recommend to forget such ideas.
+You can limit who can see your full name on LinkedIn, or of course create a profile with a fake name. But I would strongly recommend forgetting such ideas.
 
 Set the visibility of your full name to be visible all.
 
@@ -114,7 +114,7 @@ The problem is that translations will be shown e.g. in Google results (bug in Li
 
 As said, the LinkedIn visibility settings can be bit tricky, so be sure make sure you run tests:
 
-1. Google your name (you should do this regularly anyways!)
-2. Open your profile in "incognito mode" in browser
-3. Ask your friend who you're connected in LinkedIn to open your profile (and look over shoulder...)
-4. Ask someone who you're not connected (but has a LinkedIn account) to open your profile
+1. Google your name (you should do this regularly anyway!)
+2. Open your profile in "incognito mode" in the browser
+3. Ask your friend whom you're connected in LinkedIn to open your profile (and look over shoulder...)
+4. Ask someone whom you're not connected (but has a LinkedIn account) to open your profile
