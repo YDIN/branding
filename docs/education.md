@@ -10,11 +10,11 @@ Just in case, make sure your education history is described in detail.
 
 Same way like companies, pretty much every major school in the world is listed in LinkedIn, so pick up from the list instead of writing something on your own **to get your profile connected to that school.**
 
-Earlier years of LinkedIn, the database of schools were smaller, and as a result, many people had to write their own university names manually. If you're one of them, go check again, now most probably your school is already listed!
+Earlier years of LinkedIn, the database of schools was smaller, and as a result, many people had to write their own university names manually. If you're one of them, go check again, now most probably your school is already listed!
 
 ## 8.2. Have Degree, Field of study, Grades, From/To Years in detail
 
-Sounds pretty basic, but still many people end up failing in such basic information. You really graduated from a school, but can't come up with details..?
+Sounds pretty basic, but still many people end up failing in such a basic information. You really graduated from a school, but can't come up with details..?
 
 LinkedIn gives only free-text fields, so make sure you fill in:
 
