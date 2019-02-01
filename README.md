@@ -10,6 +10,12 @@ If you don't have at least some kind of agenda or cause that you want to promote
 
 A great product sells itself, they say. But what if there are multiple great products available, and in this connected world there usually is? How do you make sure your clients can find you, or your product, get interested and contact you? A well-built online presence, personal branding, alone is not going to solve that. But its a good start.
 
+**Developing your personal brand is one of the best investments you can do.**
+
+![branding](docs/pics/personal_branding.png)
+
+Better personal branding leads to more interesting opportunities to choose from, and to a better position to negotiate your terms. In practice, better jobs and more salary.
+
 This how-to is written mainly for the people in the tech business, who quite often, to put it nicely, have the biggest gap between their capabilities and how they present and promote themselves.
 
 It's worth keeping in mind that in marketing, including branding, there is not one absolute right way to do things. This how-to represents my current views and is evolving with time.
