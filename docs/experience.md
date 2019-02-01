@@ -2,7 +2,7 @@
 
 Filling in the whole work history in detail can take some time and effort, but it's an investment.
 
-As a professional, you anyways need to keep track of your past somewhere, so why not do that on LinkedIn where it's also easily visible to any stakeholders interested?
+As a professional, you anyways need to keep track of your past somewhere, so why not do that on LinkedIn where it's also easily visible to any stakeholder interested?
 
 ---
 
@@ -34,7 +34,7 @@ Make sure your work history doesn't have any gaps longer than 2-3 months. For a 
 
 For any longer than 3 months empty gap, add "a work experience" explaining it. 
 
-If you were unemployed and looking for a new job, add that as an experience and explain in the description of how things went, in both good and bad. In long work history, most of us are at some point unemployed and being open and honest about it only strengthens your brand.
+If you were unemployed and looking for a new job, add that as an experience and explain in the description of how things went, in both good and bad. During a long work history, most of us are at some point unemployed and being open and honest about it only strengthens your brand.
 
 If you took a half year off or even longer, again add that as an experience and describe what you did. When your potential clients will read about you taking a year off from "the rat race" to for example spend quality time with your family, travel the world, and renovate the house, instead of wondering what is that empty gap in the CV ("prison, maybe..?") they will look at you and think *"wow, that guy has balls... wish I had too!"*
 
